@@ -27,6 +27,7 @@ class AppBarWidget extends StatelessWidget {
           color: Colors.blue,
           width: 28,
           height: 28,
+          child: Icon(Icons.personal_video),
         ),
         kWidth
       ],

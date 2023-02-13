@@ -1,17 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:netflix_clone_app/core/colors/colors.dart';
+import 'package:netflix_clone_app/presentation/downloads/screen_downloads.dart';
 import 'package:netflix_clone_app/presentation/home/screen_home.dart';
 import 'package:netflix_clone_app/presentation/main_page/widgets/bottom_nav.dart';
 
-import '../downloads/download_screen.dart';
+import '../downloads/widgets/download_screen.dart';
 import '../fast_laugh/screen_fast_laugh.dart';
 import '../new_and_hot/screen_new_and_hot.dart';
 import '../search/screen_search.dart';
 
 class ScreenMainPage extends StatelessWidget {
-  const ScreenMainPage({super.key});
+  ScreenMainPage({super.key});
 
-  final _page = const [
+  final _page = [
     NewAndHotScreen(),
     FastLaughScreen(),
     ScreenHome(),
