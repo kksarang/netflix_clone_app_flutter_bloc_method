@@ -113,6 +113,294 @@ class BottomNavigationWidget extends StatelessWidget {
                     icon: Icon(Icons.search), label: 'Search'),
                 BottomNavigationBarItem(
                     icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
+                BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HOME'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.collections), label: 'New & Hot'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.emoji_emotions), label: 'Fast Laughs'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.search), label: 'Search'),
+                BottomNavigationBarItem(
+                    icon: Icon(Icons.download), label: 'Downloads'),
               ]);
         });
   }
